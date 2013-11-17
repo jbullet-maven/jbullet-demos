@@ -2,3 +2,4 @@ Differences from original non-maven source tree:
 * all not related to demos parts was removed
 * sources was patched according to this tutorial:
   http://blog.lolyco.com/sean/2011/05/14/trying-out-jbullet-intbuffer-is-not-direct/
+* DejaVu_Sans_11.fnt was moved to resources/
